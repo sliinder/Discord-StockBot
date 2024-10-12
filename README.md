@@ -20,4 +20,4 @@ StockBot is a Discord bot designed to help manage your shop's sales. With this b
    ```bash
    git clone https://github.com/sliinder/StockBot.git
    cd StockBot
-```
+
